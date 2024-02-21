@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt
 import numpy as np
+import matplotlib.pyplot as plt
 import pandas as pd
 
 st.title("Confused where to travel in India?")
